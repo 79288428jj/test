@@ -2,7 +2,12 @@
 
 int main()
 {
+<<<<<<< HEAD
 	printf("hello,world"!");
+	printf("just test");
+=======
+	printf("hello,world！！！！"!");
+>>>>>>> 950dcd76e66b82634526631ea5a261cda321071a
 	return 0;
 }
 
