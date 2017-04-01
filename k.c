@@ -1,1 +1,3 @@
-test 特殊塘   
+test 特殊塘 
+
+print("lalalalal");
