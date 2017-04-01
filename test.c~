@@ -8,7 +8,7 @@ void fn()
 
 int main()
 {
-	onexit(fn);
+	_onexit(fn);
 	printf("test:");
 	return 0;
 }
